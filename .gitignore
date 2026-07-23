@@ -227,7 +227,7 @@ data
 configs
 causal_ccl
 cc_split_mnist_old
-cc_mnist
+#cc_mnist
 cc_mnist_old
 cc_mnist_good
 results

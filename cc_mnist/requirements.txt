@@ -1,0 +1,10 @@
+numpy>=1.24
+scikit-learn>=1.2
+matplotlib>=3.7
+seaborn>=0.12
+pandas>=1.5
+
+# Optional, only needed for the real-MNIST loading path in data.py
+# (the code falls back gracefully if these aren't installed):
+# torch
+# torchvision
